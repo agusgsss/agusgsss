@@ -12,7 +12,7 @@
    - Member of Futsal KGB
 
 ## Work Experience:
-#### 1. [PT. Shopee Internasional Indonesia](https://careers.shopee.co.id/) | Picker Warehouse | Bekasi `Dec 2020 - Dec 2020`
+#### 1. [PT. Shopee Internasional Indonesia](https://careers.shopee.co.id/) | Picker Warehouse | Bekasi `Dec 2020 - Dec 2022`
    - The warehouse picker profession is a person or team whose job is to pick up orders in the warehouse, then hand them over to the packing department.
    - A packer, or packager, is a warehouse employee responsible for fulfilling orders by organizing inventory in shipping containers and preparing them for shipping.
    - A warehouse checker is an individual employed on a permanent, part-time, or contract basis to check, process, receive, inspect, and store all incoming and existing goods in the warehouse.
