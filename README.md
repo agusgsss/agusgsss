@@ -8,7 +8,7 @@
 
 #### 1. [Universitas Indraprasta PGRI](https://unindra.ac.id/) | Bachelor of Informatics | Jakarta `2019-2023`
    - Member of Futsal Unindra
- #### 2. [SMA N 1 Kebumen](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/d7ece487-9fdd-49f0-92e3-bdab1ef6b905) | TSN | Bekasi `2014-2017`
+ #### 2. [SMK Karya  Guna Bhakti 1 Bekasi](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/d7ece487-9fdd-49f0-92e3-bdab1ef6b905) | TSM | Bekasi `2014-2017`
    - Member of Futsal KGB
 
 ## Work Experience:
