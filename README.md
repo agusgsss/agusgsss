@@ -28,9 +28,6 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC3nP-U6lRS9LUT6uZg7gEFw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC3nP-U6lRS9LUT6uZg7gEFw#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://web.facebook.com/agusalcantara1998/?locale=id_ID#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://web.facebook.com/agusalcantara1998/?locale=id_ID#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/agus-645662226/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/agus-645662226/#gh-dark-mode-only)
 &nbsp;&nbsp;
