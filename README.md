@@ -13,11 +13,19 @@
    - Member of Futsal KGB
 
 ## Work Experience:
-#### 1. [PT. Shopee Internasional Indonesia](https://careers.shopee.co.id/) | Picker Warehouse | Bekasi `Dec 2020 - Dec 2022`
+#### 1. [PT. Arrakasta Nusalink Logistik](https://arrakastalog.com/) | Health Safety Environtmen | Jakarta Utara `Nov 2023 - Present`
+   - Design and implement and monitor the Company's HSE policy.
+   - Arrange HSE training programs for Staff.
+   - Provide direction and guidance to staff regarding occupational safety and health.
+   - Conduct security audit field inspections.
+   - Prepare reports and documentation related to work accidents and incidents.
+   - Field inventory manager.
+   - Risk assessment, incident report, safety audit, report emergency, response plan.
+#### 2. [PT. Shopee Internasional Indonesia](https://careers.shopee.co.id/) | Picker Warehouse | Bekasi `Dec 2020 - Dec 2022`
    - The warehouse picker profession is a person or team whose job is to pick up orders in the warehouse, then hand them over to the packing department.
    - A packer, or packager, is a warehouse employee responsible for fulfilling orders by organizing inventory in shipping containers and preparing them for shipping.
    - A warehouse checker is an individual employed on a permanent, part-time, or contract basis to check, process, receive, inspect, and store all incoming and existing goods in the warehouse.
-#### 2. [PT. Prakarsa Alam Segar](https://recruitment-pas.web.app/) | Helper | Bekasi `April 2018- Juli 2018`
+#### 3. [PT. Prakarsa Alam Segar](https://recruitment-pas.web.app/) | Helper | Bekasi `April 2018- Juli 2018`
    - Duties & Responsibilities: Help to carry out production activities in accordance with the Vision, Mission and Basic Values ​​of PT. Segar Nature Initiative and implementing       >production SOPs by paying attention to occupational safety and health aspects
       >Work according to the responsibilities given
       >Always keep the line or area safe, orderly, clean, neat and orderly
