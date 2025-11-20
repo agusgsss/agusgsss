@@ -43,8 +43,6 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/gusxc_/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/gusxc_/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://www.facebook.com/agusalcantara1998/#gh-dark-mode-only)
-[![website](./img/facebook-dark.svg)](https://www.facebook.com/agusalcantara1998/#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 [webdev]: https://github.com/agusgsss/agusgsss
